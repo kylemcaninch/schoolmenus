@@ -6,128 +6,128 @@ METHOD:PUBLISH
 X-WR-CALNAME:Fulton Elementary Lunch
 BEGIN:VEVENT
 UID:20260106-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260106
 DTEND;VALUE=DATE:20260107
-SUMMARY:Fulton Elementary Lunch: Sweet n' Sour Popcorn Chicken
+SUMMARY:Lunch: Sweet n' Sour Popcorn Chicken (+5)
 DESCRIPTION:Sweet n' Sour Popcorn Chicken\nBrown Rice\nSoft Baked Pret
  zel\nNacho Cheese Cup\nChicken Caesar Wrap\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260107-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
-SUMMARY:Fulton Elementary Lunch: Dutch Waffle w/ Powdered Sugar
+SUMMARY:Lunch: Dutch Waffle w/ Powdered Sugar (+5)
 DESCRIPTION:Dutch Waffle w/ Powdered Sugar\nChicken Sausage Patties\nT
  oasted Grilled Cheese Sandwich\nToasted Ham & Cheese Sandwich\nChicke
  n Caesar Wrap\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260108-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
-SUMMARY:Fulton Elementary Lunch: Cheese Pizza
+SUMMARY:Lunch: Cheese Pizza (+4)
 DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nSmoothie\, Cheese & Muffin 
  Pack\nChicken Caesar Wrap\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260109-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
-SUMMARY:Fulton Elementary Lunch: Hamburger
+SUMMARY:Lunch: Hamburger (+4)
 DESCRIPTION:Hamburger\nCheeseburger\nVegetarian Black Bean Chili\nChic
  ken Caesar Wrap\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260112-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
-SUMMARY:Fulton Elementary Lunch: Crispy Chicken Sandwich
+SUMMARY:Lunch: Crispy Chicken Sandwich (+4)
 DESCRIPTION:Crispy Chicken Sandwich\nSpicy Chicken Sandwich\nCheese St
  uffed Breadsticks w/ Marinara\nMake-Your-Own Pizza Bento\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260113-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
-SUMMARY:Fulton Elementary Lunch: Chicken Quesadilla
+SUMMARY:Lunch: Chicken Quesadilla (+4)
 DESCRIPTION:Chicken Quesadilla\nCheese Quesadilla\nChicken Corn Dog\nM
  ake-Your-Own Pizza Bento\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260114-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
-SUMMARY:Fulton Elementary Lunch: French Toast Sticks
+SUMMARY:Lunch: French Toast Sticks (+4)
 DESCRIPTION:French Toast Sticks\nChicken Sausage Patties\nBean & Chees
  e Burrito\nMake-Your-Own Pizza Bento\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260115-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
-SUMMARY:Fulton Elementary Lunch: Cheese Pizza
+SUMMARY:Lunch: Cheese Pizza (+4)
 DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nYogurt\, Muffin & String Ch
  eese Pack\nMake-Your-Own Pizza Bento\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260116-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
-SUMMARY:Fulton Elementary Lunch: Hamburger
+SUMMARY:Lunch: Hamburger (+4)
 DESCRIPTION:Hamburger\nCheeseburger\nMozzarella Pizza Crunchers\nMake-
  Your-Own Pizza Bento\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260120-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
-SUMMARY:Fulton Elementary Lunch: Penne Pasta w/ Marinara and Meatballs
+SUMMARY:Lunch: Penne Pasta w/ Marinara and Meatballs (+3)
 DESCRIPTION:Penne Pasta w/ Marinara and Meatballs\nCrispy Chicken Drum
  stick\nPopcorn Chicken Salad\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260121-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
-SUMMARY:Fulton Elementary Lunch: Buttermilk Pancakes
+SUMMARY:Lunch: Buttermilk Pancakes (+4)
 DESCRIPTION:Buttermilk Pancakes\nChicken Sausage Patties\nHot Dog on a
   Bun\nPopcorn Chicken Salad\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260122-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
-SUMMARY:Fulton Elementary Lunch: Cheese Pizza
+SUMMARY:Lunch: Cheese Pizza (+4)
 DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nSmoothie\, Cheese & Muffin 
  Pack\nPopcorn Chicken Salad\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260123-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
-SUMMARY:Fulton Elementary Lunch: Hamburger
+SUMMARY:Lunch: Hamburger (+5)
 DESCRIPTION:Hamburger\nCheeseburger\nCrunchy Beef Tacos\nCrunchy Bean 
  Tacos\nPopcorn Chicken Salad\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260126-lunch-FultonElem@mealviewer.local
-DTSTAMP:20251228T011305Z
+DTSTAMP:20251228T012111Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-SUMMARY:Fulton Elementary Lunch: Crispy Chicken Sandwich
+SUMMARY:Lunch: Crispy Chicken Sandwich (+4)
 DESCRIPTION:Crispy Chicken Sandwich\nSpicy Chicken Sandwich\nJalapeno 
  Mozzarella Bites\nItalian Sub w/ Ham & Provolone\nPB&J Pack
 END:VEVENT
