@@ -1,1 +1,166 @@
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Home Assistant Node-RED MealViewer//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fulton Elementary Lunch
+BEGIN:VEVENT
+UID:20260106-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Fulton Elementary Lunch: Sweet n' Sour Popcorn Chicken
+DESCRIPTION:Sweet n' Sour Popcorn Chicken\nBrown Rice\nSoft Baked Pret
+ zel\nNacho Cheese Cup\nChicken Caesar Wrap\nPB&J Pack\nSteamed Brocco
+ li\nCelery Sticks\nFruit Cocktail\nFresh Fruit Variety\n100% Fruit Ju
+ ice\n1% White Milk\nSkim Chocolate Milk\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260107-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Fulton Elementary Lunch: Dutch Waffle w/ Powdered Sugar
+DESCRIPTION:Dutch Waffle w/ Powdered Sugar\nChicken Sausage Patties\nT
+ oasted Grilled Cheese Sandwich\nToasted Ham & Cheese Sandwich\nChicke
+ n Caesar Wrap\nPB&J Pack\nBaked Tater Tots\nBaby Carrots\nApplesauce 
+ Cup\nFresh Fruit Variety\n100% Fruit Juice\n1% White Milk\nSkim Choco
+ late Milk\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260108-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Fulton Elementary Lunch: Cheese Pizza
+DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nSmoothie\, Cheese & Muffin 
+ Pack\nChicken Caesar Wrap\nPB&J Pack\nVegetarian Baked Beans\nFresh C
+ ucumber Slices\nDiced Peaches\nFresh Fruit Variety\n100% Fruit Juice\
+ n1% White Milk\nSkim Chocolate Milk\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260109-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Fulton Elementary Lunch: Hamburger
+DESCRIPTION:Hamburger\nCheeseburger\nVegetarian Black Bean Chili\nChic
+ ken Caesar Wrap\nPB&J Pack\nSteamed Green Beans\nBaby Carrots\nFruit 
+ Cocktail\nFresh Fruit Variety\n100% Fruit Juice\nCornbread Muffin\n1%
+  White Milk\nSkim Chocolate Milk\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260112-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Fulton Elementary Lunch: Crispy Chicken Sandwich
+DESCRIPTION:Crispy Chicken Sandwich\nSpicy Chicken Sandwich\nCheese St
+ uffed Breadsticks w/ Marinara\nMake-Your-Own Pizza Bento\nPB&J Pack\n
+ Steamed Broccoli\nBaby Carrots\nDiced Pears\nFresh Fruit Variety\n100
+ % Fruit Juice\n1% White Milk\nSkim Chocolate Milk\nRanch Packet\nTang
+ y Texas BBQ Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:20260113-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Fulton Elementary Lunch: Chicken Quesadilla
+DESCRIPTION:Chicken Quesadilla\nCheese Quesadilla\nChicken Corn Dog\nM
+ ake-Your-Own Pizza Bento\nPB&J Pack\nKickin' Pintos\nFresh Cucumber S
+ lices\nDiced Peaches\nFresh Fruit Variety\n100% Fruit Juice\n1% White
+  Milk\nSkim Chocolate Milk\nKetchup\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260114-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Fulton Elementary Lunch: French Toast Sticks
+DESCRIPTION:French Toast Sticks\nChicken Sausage Patties\nBean & Chees
+ e Burrito\nMake-Your-Own Pizza Bento\nPB&J Pack\nBaked Tater Tots\nBa
+ by Carrots\nApplesauce Cup\nFresh Fruit Variety\n100% Fruit Juice\n1%
+  White Milk\nSkim Chocolate Milk\nMaple Syrup\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260115-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Fulton Elementary Lunch: Cheese Pizza
+DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nYogurt\, Muffin & String Ch
+ eese Pack\nMake-Your-Own Pizza Bento\nPB&J Pack\nSteamed Corn\nMixed 
+ Green Side Salad\nDiced Pears\nFresh Fruit Variety\n100% Fruit Juice\
+ n1% White Milk\nSkim Chocolate Milk\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260116-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Fulton Elementary Lunch: Hamburger
+DESCRIPTION:Hamburger\nCheeseburger\nMozzarella Pizza Crunchers\nMake-
+ Your-Own Pizza Bento\nPB&J Pack\nSteamed Green Beans\nBaby Carrots\nF
+ ruit Cocktail\nFresh Fruit Variety\n100% Fruit Juice\n1% White Milk\n
+ Skim Chocolate Milk\nKetchup\nMustard\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260120-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Fulton Elementary Lunch: Penne Pasta w/ Marinara and Meatballs
+DESCRIPTION:Penne Pasta w/ Marinara and Meatballs\nCrispy Chicken Drum
+ stick\nPopcorn Chicken Salad\nPB&J Pack\nSteamed Broccoli\nFresh Cucu
+ mber Slices\nFruit Cocktail\nFresh Fruit Variety\n100% Fruit Juice\nH
+ omemade Dinner Roll\n1% White Milk\nSkim Chocolate Milk\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260121-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Fulton Elementary Lunch: Buttermilk Pancakes
+DESCRIPTION:Buttermilk Pancakes\nChicken Sausage Patties\nHot Dog on a
+  Bun\nPopcorn Chicken Salad\nPB&J Pack\nBaked Tater Tots\nBaby Carrot
+ s\nApplesauce Cup\nFresh Fruit Variety\n100% Fruit Juice\nHomemade Di
+ nner Roll\n1% White Milk\nSkim Chocolate Milk\nMaple Syrup\nRanch Pac
+ ket
+END:VEVENT
+BEGIN:VEVENT
+UID:20260122-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Fulton Elementary Lunch: Cheese Pizza
+DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nSmoothie\, Cheese & Muffin 
+ Pack\nPopcorn Chicken Salad\nPB&J Pack\nSteamed Green Beans\nFresh Cu
+ cumber Slices\nDiced Peaches\nFresh Fruit Variety\n100% Fruit Juice\n
+ Homemade Dinner Roll\n1% White Milk\nSkim Chocolate Milk\nRanch Packe
+ t
+END:VEVENT
+BEGIN:VEVENT
+UID:20260123-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Fulton Elementary Lunch: Hamburger
+DESCRIPTION:Hamburger\nCheeseburger\nCrunchy Beef Tacos\nCrunchy Bean 
+ Tacos\nPopcorn Chicken Salad\nPB&J Pack\nKickin' Pintos\nBaby Carrots
+ \nDiced Pears\nFresh Fruit Variety\n100% Fruit Juice\nHomemade Dinner
+  Roll\n1% White Milk\nSkim Chocolate Milk\nRanch Packet
+END:VEVENT
+BEGIN:VEVENT
+UID:20260126-lunch-FultonElem@mealviewer.local
+DTSTAMP:20251228T010014Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Fulton Elementary Lunch: Crispy Chicken Sandwich
+DESCRIPTION:Crispy Chicken Sandwich\nSpicy Chicken Sandwich\nJalapeno 
+ Mozzarella Bites\nItalian Sub w/ Ham & Provolone\nPB&J Pack\nVegetari
+ an Baked Beans\nBaby Carrots\nDiced Pears\nFresh Fruit Variety\n100% 
+ Fruit Juice\n1% White Milk\nSkim Chocolate Milk\nRanch Packet\nSwag S
+ auce
+END:VEVENT
+END:VCALENDAR
