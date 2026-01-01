@@ -1,1 +1,242 @@
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Home Assistant Node-RED Village Clubs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Village Clubs Schedule (Ocotillo)
+BEGIN:VEVENT
+UID:2431812@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T123000Z
+DTEND:20260102T133000Z
+SUMMARY:OV Master Swim (60m) - Sheila
+DESCRIPTION:Instructor: Sheila Arredondo\nRoom: OV Swimming Pool 1\nLo
+ cation: Ocotillo Village
+END:VEVENT
+BEGIN:VEVENT
+UID:2248508@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T150000Z
+DTEND:20260102T160000Z
+SUMMARY:Cycle Flow (60m) - Laura
+DESCRIPTION:Instructor: Laura Dahlen\nRoom: OV Hot Yoga Studio\, OV Cy
+ cle Studio\nLocation: Ocotillo Village\nIndoor Cycle meets Yoga. 30 m
+ inutes of Cycle\, followed by 30 minutes of Yoga Flow.
+END:VEVENT
+BEGIN:VEVENT
+UID:2248490@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T154500Z
+DTEND:20260102T163000Z
+SUMMARY:Cardio Muscle Blast (45m) - Kalen
+DESCRIPTION:Instructor: Kalen Campbell\nRoom: OV Group Fitness 2\nLoca
+ tion: Ocotillo Village\nThis 45 minute challenging total body workout
+  combines the perfect heart pumping cardio and strength training. The
+  format and the equipment used will change each class for calorie bur
+ n\, muscle confusion and to prevent boredom. Be prepared for agility 
+ drills\, plyometric\, core\, and overall muscle conditioning.
+END:VEVENT
+BEGIN:VEVENT
+UID:2290504@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T160000Z
+DTEND:20260102T164500Z
+SUMMARY:$Pilates INTERMEDIATE$ (45m) - Christine
+DESCRIPTION:Instructor: Christine Jacobs\nRoom: OV Reformer 1-4\; OV C
+ adillac \nLocation: Ocotillo Village\nUtilizing the Pilates equipment
+  this fee based class\, while focusing on the core will help increase
+  flexibility and agility\, improve posture and strengthen the muscles
+ .  1 class: $35\, 5 classes: $160\, 10 classes: $280.  Cancel within 
+ 24 hours of your scheduled class or you will be charged one regular c
+ lass. Previous Pilates experience of at least 3 private sessions or i
+ nstructor permission is required.
+END:VEVENT
+BEGIN:VEVENT
+UID:2248498@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T161500Z
+DTEND:20260102T170000Z
+SUMMARY:Cycle Express (45m) - Rachel
+DESCRIPTION:Instructor: Rachel Woo\nRoom: OV Cycle Studio\nLocation: O
+ cotillo Village\nThis 45 minute indoor cycle class can be customized 
+ for a novice rider to a triathlete. You control your intensity\, whil
+ e your instructor coaches\, cues\, and guides you on your ride. Our i
+ ndoor cycle class can be customized for a novice rider to a triathlet
+ e. You control your intensity\, while your instructor coaches\, cues\
+ , and guides you on your ride. Our unique bike pedals feature SPD sty
+ le cleat entry on one side\, Look Delta cleat entry on the other side
+  with attachable platforms for riders using sneakers.
+END:VEVENT
+BEGIN:VEVENT
+UID:2347860@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T161500Z
+DTEND:20260102T171500Z
+SUMMARY:Village Hot Yoga (60m) - Laura
+DESCRIPTION:Instructor: Laura Dahlen\nRoom: OV Hot Yoga Studio\nLocati
+ on: Ocotillo Village\nThis choreographed set sequence is the Village'
+ s unique blend of static traditional hot yoga postures\, blended with
+  Vinyasa\, flow style practice. Each class is taught the same sequenc
+ e. The room is heated up to 105 degrees with up to 50% humidity. Vill
+ age Hot Yoga is designed to cleanse your body\, challenge your focus 
+ and provide you with an intense practice that is a great balance to m
+ any other types of workouts. Previous yoga experience and excellent h
+ ealth are highly
+END:VEVENT
+BEGIN:VEVENT
+UID:2290495@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T170000Z
+DTEND:20260102T174500Z
+SUMMARY:$Pilates Beginners$ (45m) - Christine
+DESCRIPTION:Instructor: Christine Jacobs\nRoom: OV Reformer 1-4\; OV C
+ adillac \nLocation: Ocotillo Village\nUtilizing the Pilates equipment
+  this fee based class\, while focusing on the core will help increase
+  flexibility and agility\, improve posture and strengthen the muscles
+ .  1 class: $35\, 5 classes: $160\, 10 classes: $280.  Cancel within 
+ 24 hours of your scheduled class or you will be charged one regular c
+ lass. Previous Pilates experience of at least 3 private     sessions 
+ or instructor permission is required.
+END:VEVENT
+BEGIN:VEVENT
+UID:2248567@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T170000Z
+DTEND:20260102T174500Z
+SUMMARY:Mat Pilates (45m) - Monique
+DESCRIPTION:Instructor: Monique Schermann\nRoom: OV Group Fitness 2\nL
+ ocation: Ocotillo Village\nThis class  focuses on developing core str
+ ength\, flexibility\, balance and stamina in a full body workout.  Va
+ rious props are incorporated to enhance and intensify the workout.  N
+ o previous Pilates experience is necessary.
+END:VEVENT
+BEGIN:VEVENT
+UID:2248576@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T171500Z
+DTEND:20260102T180000Z
+SUMMARY:MIXXED FIT (45m) - Christina
+DESCRIPTION:Instructor: Christina Ivanhoe\nRoom: OV Group Fitness 1\nL
+ ocation: Ocotillo Village\nMIXXEDFIT is a people inspired fitness pro
+ gram that combines explosive dance movements with body weight toning.
+  The choreography is repetitive and easy to follow so you can focus o
+ n working hard and having fun! \nJOIN US!
+END:VEVENT
+BEGIN:VEVENT
+UID:2248553@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T173000Z
+DTEND:20260102T183000Z
+SUMMARY:Deep Stretch (60m) - Rachel
+DESCRIPTION:Instructor: Rachel Woo\nRoom: OV Mind/Body Studio\nLocatio
+ n: Ocotillo Village\nA quiet\, reflective class where we practice pas
+ sive and active stretches designed to access the deeper connective ti
+ ssues and fascia facilitating release of tense\, tight muscles and to
+  reduce overall stress in the body and mind.  A variety of props may 
+ be used for this all levels class.  No previous yoga experience neces
+ sary.
+END:VEVENT
+BEGIN:VEVENT
+UID:2248565@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T173000Z
+DTEND:20260102T183000Z
+SUMMARY:Heated Yoga Flow (60m) - Jenna
+DESCRIPTION:Instructor: Jenna Jensen\nRoom: OV Hot Yoga Studio\nLocati
+ on: Ocotillo Village\nA traditional Vinyasa\, flowing style yoga clas
+ s that takes place in the hot studio\, heated up to 95 degrees with u
+ p to 30% humidity. Each class will differ slightly\, offering a fun y
+ et challenging practice. Previous yoga experience and excellent healt
+ h are highly recommended.
+END:VEVENT
+BEGIN:VEVENT
+UID:2442603@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T233000Z
+DTEND:20260103T023000Z
+SUMMARY:OV Parent's Night Out (180m)
+DESCRIPTION:Room: OV Kids Club\nLocation: Ocotillo Village\nChoose any
+  3 hr block. Infants 2 hours MAX.\n\nJanuary - "Snow Much Fun"\nFebru
+ ary - "Sweethearts and Super Friends"\nMarch - "Lucky Leprechaun Hunt
+ "\n\nSign up on the Village app or contact Trish Smith / trsmith@dmbc
+ lubs.com
+END:VEVENT
+BEGIN:VEVENT
+UID:2283623@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260102T233000Z
+DTEND:20260103T003000Z
+SUMMARY:Yoga Flow (60m) - Jenna
+DESCRIPTION:Instructor: Jenna Jensen\nRoom: OV Mind/Body Studio\nLocat
+ ion: Ocotillo Village\nA physical yoga practice where poses are linke
+ d together and movement is driven by breath.
+END:VEVENT
+BEGIN:VEVENT
+UID:1763489@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260103T013000Z
+DTEND:20260103T040000Z
+SUMMARY:First Friday Tennis (150m)
+DESCRIPTION:Room: OV Court 1-7\nLocation: Ocotillo Village
+END:VEVENT
+BEGIN:VEVENT
+UID:2428889@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260101T173000Z
+DTEND:20260101T181500Z
+SUMMARY:Pump It Up (45m) - Christina
+DESCRIPTION:Instructor: Christina Ivanhoe\nRoom: OV Group Fitness 1\nL
+ ocation: Ocotillo Village\nStrengthen your entire body!!  – Strengt
+ hen your entire body!  Using barbells and dumbbells you will lift wit
+ hin a variety of weight loads and rep ranges.  This class will help d
+ evelop the key to a strong physique!!
+END:VEVENT
+BEGIN:VEVENT
+UID:2428867@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260101T173000Z
+DTEND:20260101T181500Z
+SUMMARY:Start the New Year with Cycle (45m) - Rachel
+DESCRIPTION:Instructor: Rachel Woo\nRoom: OV Cycle Studio\nLocation: O
+ cotillo Village\nDetails: Let’s Celebrate!! Make your first workout
+  of the New Year a priority! Join Rachel as she guides a heart pumpin
+ g 45-minute cycle class set to fun\, upbeat tunes. \n\nCost: FREE - m
+ ember | $35 guest\nSign-Up on the App or contact :\nRachel | RWoo@dmb
+ clubs.com
+END:VEVENT
+BEGIN:VEVENT
+UID:2428876@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260101T183000Z
+DTEND:20260101T193000Z
+SUMMARY:Start the New Year w Yin (60m) - Rachel
+DESCRIPTION:Instructor: Rachel Woo\nRoom: OV Mind/Body Studio\nLocatio
+ n: Ocotillo Village\nDetails: Yin Yoga is a gentle stretch practice a
+ long with guided relaxation. Recovery is essential for every body! Ex
+ perience your best self in the New Year - body\, mind and heart.\n\nC
+ ost: FREE - member | $35 guest\n\nSign-Up on the App or contact: Rach
+ el | RWoo@dmbclubs.com
+END:VEVENT
+BEGIN:VEVENT
+UID:2431815@village.local
+DTSTAMP:20260101T221022Z
+DTSTART:20260101T200000Z
+DTEND:20260101T220000Z
+SUMMARY:OV Pickleball Open Play (120m) - James
+DESCRIPTION:Instructor: James Cole\nRoom: OV Pickle West 1\nLocation: 
+ Ocotillo Village\nPickleball is available at Ocotillo Village.  Every
+  Tuesday and Thursday each week from 1:00PM to 3:00PM and every Sunda
+ y 10am to 1pm on the Weekends.  \n\n4 Courts are available for all pl
+ ayer levels who want to have a fun\, socialize and recreational play.
+ \n\nCertified Pickleball Coach\, James Cole will be providing Coachin
+ g and Instruction for those who are needing or wanting some extra ins
+ truction or 1 on 1 Coaching.\n\nThe Basketball Court will not be open
+  for for Basketball play until after the Scheduled Pickleball Open Pl
+ ay Times are over.\n\nPlay time is reserved for the first 20 that reg
+ ister on the Village Mobile App.  Registration opens 48 hours prior t
+ o the day and time of the next scheduled Pickleball Open Play.   Rule
+ s and Play Policy will be posted at the Court.\n\n*There will be no O
+ fficials. Honesty and Good Sportsmanship will be expected at all time
+ s.
+END:VEVENT
+END:VCALENDAR
