@@ -5,18 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Fulton Elementary Lunch
 BEGIN:VEVENT
-UID:20260810-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:Lunch: Crispy Chicken Sandwich (+5)
-DESCRIPTION:Crispy Chicken Sandwich\nGochujang Hot Honey Chicken Sandw
- ich\nSoft Baked Pretzel\nNacho Cheese Cup\nNachos Bento Box\nPB&J Pac
- k
-END:VEVENT
-BEGIN:VEVENT
 UID:20260811-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:Lunch: Chicken Hard Shell Tacos (+4)
@@ -25,7 +15,7 @@ DESCRIPTION:Chicken Hard Shell Tacos\nCrunchy Bean Tacos\nItalian Meat
 END:VEVENT
 BEGIN:VEVENT
 UID:20260812-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Lunch: Pancake Bites (+4)
@@ -34,7 +24,7 @@ DESCRIPTION:Pancake Bites\nChicken Sausage Patties\nBean & Cheese Burr
 END:VEVENT
 BEGIN:VEVENT
 UID:20260813-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Lunch: Cheese Pizza (+4)
@@ -43,7 +33,7 @@ DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nYogurt\, Muffin & String Ch
 END:VEVENT
 BEGIN:VEVENT
 UID:20260814-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Lunch: Hamburger (+4)
@@ -52,15 +42,16 @@ DESCRIPTION:Hamburger\nCheeseburger\nCheese Stuffed Breadsticks w/ Mar
 END:VEVENT
 BEGIN:VEVENT
 UID:20260817-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:Lunch: Orange Popcorn Chicken (+2)
-DESCRIPTION:Orange Popcorn Chicken\nBrown Rice\nPB&J Pack
+SUMMARY:Lunch: Orange Popcorn Chicken (+3)
+DESCRIPTION:Orange Popcorn Chicken\nBrown Rice\nCheese Quesadilla\nPB&
+ J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260819-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Lunch: PB&J Pack
@@ -68,7 +59,7 @@ DESCRIPTION:PB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260820-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Lunch: Hamburger (+2)
@@ -76,33 +67,43 @@ DESCRIPTION:Hamburger\nCheeseburger\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260821-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:Lunch: Cheese Pizza (+3)
+SUMMARY:Lunch: Cheese Pizza (+4)
 DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nYogurt\, Muffin & String Ch
- eese Pack\nPB&J Pack
+ eese Pack\nMake-Your-Own Pizza Bento\nPB&J Pack
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-lunch-FultonElem@mealviewer.local
+DTSTAMP:20260811T100003Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Lunch: Crispy Chicken Sandwich (+4)
+DESCRIPTION:Crispy Chicken Sandwich\nSpicy Chicken Sandwich\nCheese St
+ uffed Breadsticks w/ Marinara\nChicken Caesar Wrap\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260825-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:Lunch: Mac & Cheese (+2)
-DESCRIPTION:Mac & Cheese\nChicken Caesar Wrap\nPB&J Pack
+SUMMARY:Lunch: Mac & Cheese (+3)
+DESCRIPTION:Mac & Cheese\nCrispy Popcorn Chicken\nChicken Caesar Wrap\
+ nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:Lunch: Chicken Sausage Patties (+3)
-DESCRIPTION:Chicken Sausage Patties\nBean & Cheese Burrito\nChicken Ca
- esar Wrap\nPB&J Pack
+SUMMARY:Lunch: Dutch Waffle w/ Powdered Sugar (+4)
+DESCRIPTION:Dutch Waffle w/ Powdered Sugar\nChicken Sausage Patties\nB
+ ean & Cheese Burrito\nChicken Caesar Wrap\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260827-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Lunch: Cheese Pizza (+5)
@@ -111,24 +112,25 @@ DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nSmoothie\, Cheese & Muffin
 END:VEVENT
 BEGIN:VEVENT
 UID:20260828-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Lunch: Hamburger (+4)
-DESCRIPTION:Hamburger\nCheeseburger\nChicken Caesar Wrap\nPB&J Pack\n-
- Vegetables-
+DESCRIPTION:Hamburger\nCheeseburger\nTwo Cheese & Green Chile Tamale\n
+ Chicken Caesar Wrap\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260831-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:Lunch: Sweet n' Sour Popcorn Chicken (+2)
-DESCRIPTION:Sweet n' Sour Popcorn Chicken\nBrown Rice\nPB&J Pack
+SUMMARY:Lunch: Sweet n' Sour Popcorn Chicken (+5)
+DESCRIPTION:Sweet n' Sour Popcorn Chicken\nBrown Rice\nSoft Baked Pret
+ zel\nNacho Cheese Cup\nPopcorn Chicken Salad\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260901-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Lunch: Beef and Cheese Nachos (+4)
@@ -137,16 +139,16 @@ DESCRIPTION:Beef and Cheese Nachos\nVegetarian Nachos\nCrispy Chicken
 END:VEVENT
 BEGIN:VEVENT
 UID:20260902-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:Lunch: Chicken Sausage Patties (+3)
-DESCRIPTION:Chicken Sausage Patties\nMini Chicken Corn Dogs\nPopcorn C
- hicken Salad\nPB&J Pack
+SUMMARY:Lunch: French Toast Sticks (+4)
+DESCRIPTION:French Toast Sticks\nChicken Sausage Patties\nMini Chicken
+  Corn Dogs\nPopcorn Chicken Salad\nPB&J Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260903-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Lunch: Cheese Pizza (+3)
@@ -155,7 +157,7 @@ DESCRIPTION:Cheese Pizza\nYogurt\, Muffin & String Cheese Pack\nPopcor
 END:VEVENT
 BEGIN:VEVENT
 UID:20260904-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Lunch: Hamburger (+4)
@@ -164,18 +166,29 @@ DESCRIPTION:Hamburger\nCheeseburger\nMozzarella Pizza Crunchers\nPopco
 END:VEVENT
 BEGIN:VEVENT
 UID:20260908-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:Lunch: Mac & Cheese (+2)
-DESCRIPTION:Mac & Cheese\nBBQ Chicken Sandwich\nPB&J Pack
+SUMMARY:Lunch: Mac & Cheese (+3)
+DESCRIPTION:Mac & Cheese\nBBQ Chicken Sandwich\nHam & Cheese Sub\nPB&J
+  Pack
 END:VEVENT
 BEGIN:VEVENT
 UID:20260909-lunch-FultonElem@mealviewer.local
-DTSTAMP:20260810T100003Z
+DTSTAMP:20260811T100003Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:Lunch: Hot Dog on a Bun (+1)
-DESCRIPTION:Hot Dog on a Bun\nPB&J Pack
+SUMMARY:Lunch: Buttermilk Pancakes (+3)
+DESCRIPTION:Buttermilk Pancakes\nHot Dog on a Bun\nHam & Cheese Sub\nP
+ B&J Pack
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-lunch-FultonElem@mealviewer.local
+DTSTAMP:20260811T100003Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Lunch: Cheese Pizza (+4)
+DESCRIPTION:Cheese Pizza\nPepperoni Pizza\nSmoothie\, Cheese & Muffin 
+ Pack\nHam & Cheese Sub\nPB&J Pack
 END:VEVENT
 END:VCALENDAR
